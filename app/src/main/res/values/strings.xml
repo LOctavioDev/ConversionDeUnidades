@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+    <string name="hint_enter_distance">Ingrese la distancia en metros</string>
+    <string-array name="distance_units">
+        <item>Kilómetros</item>
+        <item>Millas</item>
+        <item>Pies</item>
+    </string-array>
+</resources>
